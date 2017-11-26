@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <com.example.shubham.circularcolorpicker.ColorPickerOvalView
+        android:id="@+id/viewOval"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp" />
+
+    <EditText
+        android:id="@+id/etHexColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:digits="0123456789ABCDEF"
+        android:ems="8"
+        android:hint="Hex color"
+        android:inputType="textCapCharacters"
+        android:maxLength="9" />
+
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="colors">
+        <item>@color/Black</item>
+        <item>@color/Red</item>
+        <item>@color/Pink</item>
+        <item>@color/Purple</item>
+        <item>@color/DeepPurple</item>
+        <item>@color/Indigo</item>
+        <item>@color/Blue</item>
+        <item>@color/LightBlue</item>
+        <item>@color/Cyan</item>
+        <item>@color/Teal</item>
+        <item>@color/Green</item>
+        <item>@color/LightGreen</item>
+        <item>@color/Lime</item>
+        <item>@color/Yellow</item>
+        <item>@color/Amber</item>
+        <item>@color/Orange</item>
+        <item>@color/DeepOrange</item>
+        <item>@color/Brown</item>
+        <item>@color/Grey</item>
+        <item>@color/BlueGrey</item>
+    </integer-array>
+</resources>
